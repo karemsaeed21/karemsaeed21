@@ -12,15 +12,27 @@ I'm a Machine Learning Engineer <br/>
 <br clear="both">
 
 <h3 align="left">
-    Frontend Development:
+    Machine Learning:
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/> -->
+</div>
+
+<h3 align="left">
+    Deep Learning:
+</h3>
+
+<div align="left" style="display: flex; gap: .5rem">
+<!--   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/> -->
 </div>
 
 <h3 align="left">
