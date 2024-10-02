@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Hi! My name is Kareem<br/>
-I'm a Software Engineer <br/>
+I'm a Machine Learning Engineer <br/>
 </h3>
 
 <div align="center">
