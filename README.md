@@ -18,7 +18,7 @@
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
+    <img src="https://skillicons.dev/icons?i=ScikitLearn-Dark" height="40" alt="tensorflow logo" />
     <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo" />
     <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo" />
 </div>
