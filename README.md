@@ -18,9 +18,10 @@
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
-    <img src="https://skillicons.dev/icons?i=scikit-learn" height="40" alt="scikit-learn logo" />
-    <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo" />
-    <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_white.svg" height="40" alt="scikit-learn logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/NumPy_logo_2020.svg" height="40" alt="numpy logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Pandas_logo.svg" height="40" alt="pandas logo" />
+</div>
 <img
 </div>
 
