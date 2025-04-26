@@ -14,25 +14,15 @@
 <br clear="both">
 
 <h3 align="left">
-    Machine Learning:
-</h3>
-
-<div align="left" style="display: flex; gap: .5rem">
-    <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo" />
-    <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo" />
-    <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo" />
-</div>
-<img
-</div>
-
-<h3 align="left">
-    Deep Learning:
+    Deep Learning Frameworks:
 </h3>
 
 <div align="left" style="display: flex; gap: .5rem">
     <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo" />
     <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" />
-
+    <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn logo" />
+    <img src="https://skillicons.dev/icons?i=numpy" height="40" alt="numpy logo" />
+    <img src="https://skillicons.dev/icons?i=pandas" height="40" alt="pandas logo" />
 </div>
 
 <h3 align="left">
