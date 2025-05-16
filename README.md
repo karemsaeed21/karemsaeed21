@@ -50,19 +50,22 @@
     Connect with me:
 </h3>
 
-<div>
-    <a href="www.linkedin.com/in/kareem-mohamed-4a127b24a" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
-            alt="linkedin logo" />
-    </a>
-    <a href="mailto:karemsaeed1035@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="52"
-            height="40" alt="gmail logo" />
-    </a>
-    <a href="https://x.com/karem_saeed24" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="52" height="40"
-            alt="twitter logo" />
-    </a>
-</div>
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+
+<br/>
+<p align="left">
+  <a href="https://abdotolba-cv.web.app/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevAbdoTolba&show_icons=true&include_all_commits=true&theme=radical&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbdoTolba&theme=radical&hide_border=true">		  
+  </a>
+</p>
+<br>
+<p align="center">
+  <a href="http://abdotolba-cv.web.app/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbdoTolba&theme=radical&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  </a>
+</p>
+
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karemsaeed21&show_icons=true&locale=en&layout=compact" alt="karemsaeed21" /></p>
