@@ -50,6 +50,8 @@
     Connect with me:
 </h3>
 
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
 <div>
     <a href="www.linkedin.com/in/kareem-mohamed-4a127b24a" target="_blank">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="52" height="40"
