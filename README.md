@@ -1,6 +1,4 @@
 <br clear="both">
-
-
 <h3 align="center">
     Hi! My name is Kareem<br />
     I'm a Machine Learning Engineer <br />
